@@ -1,4 +1,4 @@
-package com.example.neervyas.swoosh
+package com.example.neervyas.swoosh.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
